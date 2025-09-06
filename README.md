@@ -92,7 +92,7 @@ Here’s the learning path this repo follows:
 
 
 
-\- \[Laptop Class Example](examples/01\_classes\_objects.cpp) → Basics of classes and objects
+\- \[Laptop Class Example](./examples/01\_classes\_objects.cpp) → Basics of classes and objects
 
 \- `02\_constructors.cpp` → Constructors and destructors  
 
