@@ -92,9 +92,9 @@ Here’s the learning path this repo follows:
 
 
 
-\- \[Laptop Class Example](./examples/01\_classes\_objects.cpp) → Basics of classes and objects
+\- `01\_classes\_objects.cpp` → Basics of classes and objects  
 
-\- \[Constructors \& Destructors Example](examples/02\_constructors.cpp) → Constructors and destructors
+\- `02\_constructors.cpp` → Constructors and destructors  
 
 \- `03\_encapsulation.cpp` → Encapsulation and access modifiers  
 
